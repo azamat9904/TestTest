@@ -12,7 +12,4 @@ EXPOSE 8080
 
 CMD ["npm", "start"]
 
-IT is no edit flag
-
-
-some changes and it for change commit name
+Hello from new branch
